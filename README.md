@@ -1,11 +1,19 @@
 # 📱 Xflip - Outer Cover Screen Launcher for Samsung Galaxy Z Flip
 
-![Galaxy Z Flip](https://img.shields.io/badge/Samsung-Galaxy_Z_Flip_5_|_6_|_7-00F0FF?style=for-the-badge&logo=samsung)
-![Kotlin](https://img.shields.io/badge/Kotlin-1.9.22-7F52FF?style=for-the-badge&logo=kotlin)
-![Android](https://img.shields.io/badge/Platform-Android_13_--_15-3DDC84?style=for-the-badge&logo=android)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+[![Download APK](https://img.shields.io/badge/Download_APK-Direct_Installer-00F0FF?style=for-the-badge&logo=android)](https://github.com/lokaovida-eng/Xflip/releases)
+[![Galaxy Z Flip](https://img.shields.io/badge/Samsung-Galaxy_Z_Flip_5_|_6_|_7-00F0FF?style=for-the-badge&logo=samsung)](https://github.com/lokaovida-eng/Xflip)
+[![Kotlin](https://img.shields.io/badge/Kotlin-1.9.22-7F52FF?style=for-the-badge&logo=kotlin)](https://kotlinlang.org/)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://github.com/lokaovida-eng/Xflip)
 
 **Xflip** is an ultra-lightweight, high-performance cover screen launcher and multitasking utility designed specifically for **Samsung Galaxy Z Flip 5, Z Flip 6, and Z Flip 7** foldable smartphones. Xflip allows users to execute full Android applications directly on the outer cover display without unfolding the phone.
+
+---
+
+## 📥 Direct Download
+
+Click the badge below to download the latest release installer directly to your device:
+
+👉 **[Download Xflip.apk (Direct Installer)](https://github.com/lokaovida-eng/Xflip/releases)**
 
 ---
 
@@ -30,14 +38,6 @@
 | **Min SDK** | `30` (Android 11) |
 | **Target SDK** | `34` (Android 14) / `35` (Android 15) |
 | **Architecture** | Native Cover Window Manager & Jetpack Compose |
-
----
-
-## 🚀 How to Install & Launch
-
-1. Download the latest `Xflip.apk` installer from the [Releases](https://github.com/lokaovida-eng/Xflip/releases) section or clone the repository.
-2. Grant "Draw over other apps" and "Accessibility Services" permissions for cover screen rendering.
-3. Add the **Xflip Cover Widget** to your Galaxy Z Flip Cover Screen widgets list!
 
 ---
 
