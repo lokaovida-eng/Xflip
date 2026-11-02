@@ -1,6 +1,6 @@
 # 📱 Xflip - Outer Cover Screen Launcher for Samsung Galaxy Z Flip
 
-[![Download APK](https://img.shields.io/badge/Download_APK-Direct_Installer-00F0FF?style=for-the-badge&logo=android)](https://github.com/lokaovida-eng/Xflip/releases)
+[![Download APK](https://img.shields.io/badge/Download_APK-Direct_Installer_v0.0.7-00F0FF?style=for-the-badge&logo=android)](https://github.com/lokaovida-eng/Xflip/raw/main/xflip%200.0.7.apk)
 [![Galaxy Z Flip](https://img.shields.io/badge/Samsung-Galaxy_Z_Flip_5_|_6_|_7-00F0FF?style=for-the-badge&logo=samsung)](https://github.com/lokaovida-eng/Xflip)
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.9.22-7F52FF?style=for-the-badge&logo=kotlin)](https://kotlinlang.org/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://github.com/lokaovida-eng/Xflip)
@@ -13,7 +13,7 @@
 
 Click the badge below to download the latest release installer directly to your device:
 
-👉 **[Download Xflip.apk (Direct Installer)](https://github.com/lokaovida-eng/Xflip/releases)**
+👉 **[Download Xflip v0.0.7.apk (Direct 12.3 MB Installer)](https://github.com/lokaovida-eng/Xflip/raw/main/xflip%200.0.7.apk)**
 
 ---
 
